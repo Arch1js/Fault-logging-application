@@ -1,0 +1,40 @@
+﻿<Controls:MetroWindow x:Name="App" x:Class="Fault_Logger.JobStatus"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:iconPacks="http://metro.mahapps.com/winfx/xaml/iconpacks"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        Title="Job Status" Height="600" Width="450" WindowStyle="ToolWindow"
+        WindowStartupLocation="CenterScreen"
+        WindowTitleBrush="ForestGreen"
+        GlowBrush="{DynamicResource AccentColorBrush}">
+    <Controls:MetroWindow.RightWindowCommands>
+        <Controls:WindowCommands>
+            <ComboBox x:Name="cmbUser" BorderThickness="0" Background="{x:Null}" Controls:TextBoxHelper.Watermark="Account">
+                <ComboBoxItem Content="Logout" HorizontalAlignment="Left" Width="146" Selected="cmbLogout" Background="#FF48BBDC"/>
+            </ComboBox>
+        </Controls:WindowCommands>
+    </Controls:MetroWindow.RightWindowCommands>
+    <Grid>
+        <TextBox x:Name="txtJobID" HorizontalAlignment="Left" Height="23" Margin="162,39,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="142" IsReadOnly="True"/>
+        <TextBox x:Name="txtZone" HorizontalAlignment="Left" Height="23" Margin="162,87,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="142" IsReadOnly="True"/>
+        <ComboBox x:Name="cmbStatus" HorizontalAlignment="Left" Height="25" Margin="162,139,0,0" VerticalAlignment="Top" Width="142" IsSynchronizedWithCurrentItem="False" Controls:TextBoxHelper.Watermark="Please select">
+            <ComboBoxItem Content="Unresolved" HorizontalAlignment="Left" Width="146"/>
+            <ComboBoxItem Content="Finished" HorizontalAlignment="Left" Width="146"/>
+        </ComboBox>
+        <TextBox x:Name="txtComments" HorizontalAlignment="Left" Height="71" Margin="80,260,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="272" IsReadOnly="True"/>
+        <Label x:Name="lblSummary" Content="Job No." HorizontalAlignment="Left" Margin="94,39,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblZone" Content="Zone" HorizontalAlignment="Left" Margin="107,87,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblStatus" Content="Job Status" HorizontalAlignment="Left" Margin="80,139,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblComments" Content="Dispatch Comments" HorizontalAlignment="Left" Margin="80,229,0,0" VerticalAlignment="Top" Width="143"/>
+        <Button  x:Name="btnSave" Content="Save" HorizontalAlignment="Left" Height="29" Margin="234,502,0,0" VerticalAlignment="Top" Width="112" FontSize="14" Background="#FF4F9DDE" Click="btnSave_Click"/>
+        <iconPacks:PackIconFontAwesome Kind="FloppyOutline" Margin="254,512,0,0" Height="12" Width="12" />
+        <Label x:Name="lblTechComments" Content="Technician Comments" HorizontalAlignment="Left" Margin="80,356,0,0" VerticalAlignment="Top" Width="143"/>
+        <TextBox x:Name="txtTechComments" HorizontalAlignment="Left" Height="71" Margin="80,391,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="272"/>
+        <Button x:Name="btnCancle" Content="Cancle" HorizontalAlignment="Left" Height="29" Margin="95,502,0,0" VerticalAlignment="Top" Width="112" FontSize="14" Background="#FFC50000" IsCancel="True" Click="btnCancle_Click"/>
+        <iconPacks:PackIconFontAwesome Kind="ban" Margin="107,512,0,0" Height="12" Width="12" />
+        <TextBox x:Name="txtTime" HorizontalAlignment="Left" Height="23" Margin="162,184,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="142" IsReadOnly="True"/>
+        <Label x:Name="lblTime" Content="Request at" HorizontalAlignment="Left" Margin="80,184,0,0" VerticalAlignment="Top"/>
+    </Grid>
+</Controls:MetroWindow>
+
+

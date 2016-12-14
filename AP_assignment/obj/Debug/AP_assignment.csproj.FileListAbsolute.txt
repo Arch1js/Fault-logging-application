@@ -1,0 +1,437 @@
+C:\Users\Arturs\Desktop\Application Programming\AP_assignment\AP_assignment\bin\Debug\AP_assignment.exe.config
+C:\Users\Arturs\Desktop\Application Programming\AP_assignment\AP_assignment\bin\Debug\AP_assignment.exe
+C:\Users\Arturs\Desktop\Application Programming\AP_assignment\AP_assignment\bin\Debug\AP_assignment.pdb
+C:\Users\Arturs\Desktop\Application Programming\AP_assignment\AP_assignment\bin\Debug\MahApps.Metro.dll
+C:\Users\Arturs\Desktop\Application Programming\AP_assignment\AP_assignment\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\Arturs\Desktop\Application Programming\AP_assignment\AP_assignment\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Arturs\Desktop\Application Programming\AP_assignment\AP_assignment\bin\Debug\MahApps.Metro.pdb
+C:\Users\Arturs\Desktop\Application Programming\AP_assignment\AP_assignment\bin\Debug\MahApps.Metro.xml
+C:\Users\Arturs\Desktop\Application Programming\AP_assignment\AP_assignment\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\Arturs\Desktop\Application Programming\AP_assignment\AP_assignment\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\Arturs\Desktop\Application Programming\AP_assignment\AP_assignment\obj\Debug\AP_assignment.csprojResolveAssemblyReference.cache
+C:\Users\Arturs\Desktop\Application Programming\AP_assignment\AP_assignment\obj\Debug\App.g.cs
+C:\Users\Arturs\Desktop\Application Programming\AP_assignment\AP_assignment\obj\Debug\AP_assignment_MarkupCompile.cache
+C:\Users\Arturs\Desktop\Application Programming\AP_assignment\AP_assignment\obj\Debug\AP_assignment.g.resources
+C:\Users\Arturs\Desktop\Application Programming\AP_assignment\AP_assignment\obj\Debug\AP_assignment.Properties.Resources.resources
+C:\Users\Arturs\Desktop\Application Programming\AP_assignment\AP_assignment\obj\Debug\AP_assignment.csproj.GenerateResource.Cache
+C:\Users\Arturs\Desktop\Application Programming\AP_assignment\AP_assignment\obj\Debug\AP_assignment.exe
+C:\Users\Arturs\Desktop\Application Programming\AP_assignment\AP_assignment\obj\Debug\AP_assignment.pdb
+C:\Users\Arturs\Desktop\Application Programming\AP_assignment\AP_assignment\obj\Debug\App.baml
+C:\Users\Arturs\Desktop\Application Programming\AP_assignment\AP_assignment\obj\Debug\Login.baml
+C:\Users\Arturs\Desktop\Application Programming\AP_assignment\AP_assignment\obj\Debug\Login.g.cs
+C:\Users\Arturs\Desktop\Application Programming\AP_assignment\AP_assignment\obj\Debug\Technician_Dispatch.baml
+C:\Users\Arturs\Desktop\Application Programming\AP_assignment\AP_assignment\obj\Debug\Technician_Dispatch.g.cs
+C:\Users\Arturs\Desktop\Application Programming\AP_assignment\AP_assignment\obj\Debug\Maintenance.baml
+C:\Users\Arturs\Desktop\Application Programming\AP_assignment\AP_assignment\obj\Debug\Maintenance.g.cs
+C:\Users\adobr\Desktop\Application Programming\Assignment\AP_assignment\AP_assignment\bin\Debug\AP_assignment.exe.config
+C:\Users\adobr\Desktop\Application Programming\Assignment\AP_assignment\AP_assignment\obj\Debug\AP_assignment.exe
+C:\Users\adobr\Desktop\Application Programming\Assignment\AP_assignment\AP_assignment\obj\Debug\AP_assignment.pdb
+C:\Users\adobr\Desktop\Application Programming\Assignment\AP_assignment\AP_assignment\bin\Debug\AP_assignment.exe
+C:\Users\adobr\Desktop\Application Programming\Assignment\AP_assignment\AP_assignment\bin\Debug\AP_assignment.pdb
+C:\Users\adobr\Desktop\Application Programming\Assignment\AP_assignment\AP_assignment\bin\Debug\MahApps.Metro.dll
+C:\Users\adobr\Desktop\Application Programming\Assignment\AP_assignment\AP_assignment\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\adobr\Desktop\Application Programming\Assignment\AP_assignment\AP_assignment\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\adobr\Desktop\Application Programming\Assignment\AP_assignment\AP_assignment\bin\Debug\MahApps.Metro.pdb
+C:\Users\adobr\Desktop\Application Programming\Assignment\AP_assignment\AP_assignment\bin\Debug\MahApps.Metro.xml
+C:\Users\adobr\Desktop\Application Programming\Assignment\AP_assignment\AP_assignment\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\adobr\Desktop\Application Programming\Assignment\AP_assignment\AP_assignment\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\adobr\Desktop\Application Programming\Assignment\AP_assignment\AP_assignment\obj\Debug\AP_assignment.csprojResolveAssemblyReference.cache
+C:\Users\adobr\Desktop\Application Programming\Assignment\AP_assignment\AP_assignment\obj\Debug\Login.baml
+C:\Users\adobr\Desktop\Application Programming\Assignment\AP_assignment\AP_assignment\obj\Debug\Technician_Dispatch.baml
+C:\Users\adobr\Desktop\Application Programming\Assignment\AP_assignment\AP_assignment\obj\Debug\App.baml
+C:\Users\adobr\Desktop\Application Programming\Assignment\AP_assignment\AP_assignment\obj\Debug\Login.g.cs
+C:\Users\adobr\Desktop\Application Programming\Assignment\AP_assignment\AP_assignment\obj\Debug\Technician_Dispatch.g.cs
+C:\Users\adobr\Desktop\Application Programming\Assignment\AP_assignment\AP_assignment\obj\Debug\App.g.cs
+C:\Users\adobr\Desktop\Application Programming\Assignment\AP_assignment\AP_assignment\obj\Debug\AP_assignment_MarkupCompile.cache
+C:\Users\adobr\Desktop\Application Programming\Assignment\AP_assignment\AP_assignment\obj\Debug\AP_assignment.g.resources
+C:\Users\adobr\Desktop\Application Programming\Assignment\AP_assignment\AP_assignment\obj\Debug\AP_assignment.Properties.Resources.resources
+C:\Users\adobr\Desktop\Application Programming\Assignment\AP_assignment\AP_assignment\obj\Debug\AP_assignment.csproj.GenerateResource.Cache
+C:\Users\adobr\Desktop\Application Programming\Assignment\AP_assignment\AP_assignment\obj\Debug\Fault report.baml
+C:\Users\adobr\Desktop\Application Programming\Assignment\AP_assignment\AP_assignment\obj\Debug\Fault report.g.cs
+C:\Users\adobr\Desktop\Application Programming\Assignment\AP_assignment\AP_assignment\obj\Debug\Maintenance.baml
+C:\Users\adobr\Desktop\Application Programming\Assignment\AP_assignment\AP_assignment\obj\Debug\Maintenance.g.cs
+C:\Users\adobr\Desktop\Application Programming\Assignment\AP_assignment\AP_assignment\obj\Debug\Fault report2.baml
+C:\Users\adobr\Desktop\Application Programming\Assignment\AP_assignment\AP_assignment\obj\Debug\Fault report2.g.cs
+C:\Users\Arturs\Desktop\Application Programming\AP_assignment\AP_assignment\obj\Debug\Fault report2.baml
+C:\Users\Arturs\Desktop\Application Programming\AP_assignment\AP_assignment\obj\Debug\Fault report.baml
+C:\Users\Arturs\Desktop\Application Programming\AP_assignment\AP_assignment\obj\Debug\Fault report2.g.cs
+C:\Users\Arturs\Desktop\Application Programming\AP_assignment\AP_assignment\obj\Debug\Fault report.g.cs
+C:\Users\Arturs\Desktop\Application Programming\AP_assignment\AP_assignment\obj\Debug\reports.baml
+C:\Users\Arturs\Desktop\Application Programming\AP_assignment\AP_assignment\obj\Debug\reports.g.cs
+F:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\bin\Debug\AP_assignment.exe.config
+F:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\AP_assignment.exe
+F:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\AP_assignment.pdb
+E:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\bin\Debug\AP_assignment.exe.config
+E:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\AP_assignment.exe
+E:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\AP_assignment.pdb
+E:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\bin\Debug\AP_assignment.exe
+E:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\bin\Debug\AP_assignment.pdb
+E:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\bin\Debug\MahApps.Metro.dll
+E:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\bin\Debug\MahApps.Metro.IconPacks.dll
+E:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\bin\Debug\System.Windows.Interactivity.dll
+E:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\bin\Debug\MahApps.Metro.pdb
+E:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\bin\Debug\MahApps.Metro.xml
+E:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\bin\Debug\MahApps.Metro.IconPacks.pdb
+E:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\bin\Debug\MahApps.Metro.IconPacks.xml
+E:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\AP_assignment.csprojResolveAssemblyReference.cache
+E:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\Fault report2.baml
+E:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\Login.baml
+E:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\Maintenance.baml
+E:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\Fault report.baml
+E:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\reports.baml
+E:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\Technician_Dispatch.baml
+E:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\App.baml
+E:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\Fault report2.g.cs
+E:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\Login.g.cs
+E:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\Maintenance.g.cs
+E:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\Fault report.g.cs
+E:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\reports.g.cs
+E:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\Technician_Dispatch.g.cs
+E:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\App.g.cs
+E:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\AP_assignment_MarkupCompile.cache
+E:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\AP_assignment.g.resources
+E:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\AP_assignment.Properties.Resources.resources
+E:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\AP_assignment.csproj.GenerateResource.Cache
+F:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\AP_assignment.csprojResolveAssemblyReference.cache
+F:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\Fault report2.baml
+F:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\Login.baml
+F:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\Maintenance.baml
+F:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\Fault report.baml
+F:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\reports.baml
+F:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\TechnicianLogin.baml
+F:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\Technician_Dispatch.baml
+F:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\App.baml
+F:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\Fault report2.g.cs
+F:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\Login.g.cs
+F:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\Maintenance.g.cs
+F:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\Fault report.g.cs
+F:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\reports.g.cs
+F:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\TechnicianLogin.g.cs
+F:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\Technician_Dispatch.g.cs
+F:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\App.g.cs
+F:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\AP_assignment_MarkupCompile.cache
+F:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\AP_assignment.g.resources
+F:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\AP_assignment.Properties.Resources.resources
+F:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\AP_assignment.csproj.GenerateResource.Cache
+F:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\bin\Debug\AP_assignment.exe
+F:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\bin\Debug\AP_assignment.pdb
+F:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\bin\Debug\MahApps.Metro.dll
+F:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\bin\Debug\MahApps.Metro.IconPacks.dll
+F:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\bin\Debug\System.Windows.Interactivity.dll
+F:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\bin\Debug\MahApps.Metro.pdb
+F:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\bin\Debug\MahApps.Metro.xml
+F:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\bin\Debug\MahApps.Metro.IconPacks.pdb
+F:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\bin\Debug\MahApps.Metro.IconPacks.xml
+F:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\TechnicianJobs.baml
+F:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\TechnicianJobs.g.cs
+G:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\bin\Debug\AP_assignment.exe.config
+G:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\AP_assignment.exe
+G:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\AP_assignment.pdb
+C:\Users\Arturs\Desktop\Application Programming\AP_assignment\AP_assignment\obj\Debug\TechnicianJobs.baml
+C:\Users\Arturs\Desktop\Application Programming\AP_assignment\AP_assignment\obj\Debug\TechnicianLogin.baml
+C:\Users\Arturs\Desktop\Application Programming\AP_assignment\AP_assignment\obj\Debug\TechnicianJobs.g.cs
+C:\Users\Arturs\Desktop\Application Programming\AP_assignment\AP_assignment\obj\Debug\TechnicianLogin.g.cs
+C:\Users\Arturs\Desktop\Application Programming\AP_assignment\AP_assignment\obj\Debug\JobStatus.baml
+C:\Users\Arturs\Desktop\Application Programming\AP_assignment\AP_assignment\obj\Debug\JobStatus.g.cs
+C:\Users\Arturs\Desktop\Application Programming\AP_assignment\AP_assignment\obj\Debug\jobLogs.baml
+C:\Users\Arturs\Desktop\Application Programming\AP_assignment\AP_assignment\obj\Debug\jobLogs.g.cs
+C:\Users\Arturs\Desktop\Application Programming\AP_assignment\AP_assignment\obj\Debug\technicianReport.baml
+C:\Users\Arturs\Desktop\Application Programming\AP_assignment\AP_assignment\obj\Debug\technicianReport.g.cs
+F:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\jobLogs.baml
+F:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\JobStatus.baml
+F:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\technicianReport.baml
+F:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\jobLogs.g.cs
+F:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\JobStatus.g.cs
+F:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\technicianReport.g.cs
+F:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\dashboard.baml
+F:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\dashboard.g.cs
+C:\Users\adobr\Desktop\Application Programming\Assignment\AP_assignment\AP_assignment\obj\Debug\dashboard.baml
+C:\Users\adobr\Desktop\Application Programming\Assignment\AP_assignment\AP_assignment\obj\Debug\jobLogs.baml
+C:\Users\adobr\Desktop\Application Programming\Assignment\AP_assignment\AP_assignment\obj\Debug\JobStatus.baml
+C:\Users\adobr\Desktop\Application Programming\Assignment\AP_assignment\AP_assignment\obj\Debug\reports.baml
+C:\Users\adobr\Desktop\Application Programming\Assignment\AP_assignment\AP_assignment\obj\Debug\TechnicianJobs.baml
+C:\Users\adobr\Desktop\Application Programming\Assignment\AP_assignment\AP_assignment\obj\Debug\TechnicianLogin.baml
+C:\Users\adobr\Desktop\Application Programming\Assignment\AP_assignment\AP_assignment\obj\Debug\technicianReport.baml
+C:\Users\adobr\Desktop\Application Programming\Assignment\AP_assignment\AP_assignment\obj\Debug\dashboard.g.cs
+C:\Users\adobr\Desktop\Application Programming\Assignment\AP_assignment\AP_assignment\obj\Debug\jobLogs.g.cs
+C:\Users\adobr\Desktop\Application Programming\Assignment\AP_assignment\AP_assignment\obj\Debug\JobStatus.g.cs
+C:\Users\adobr\Desktop\Application Programming\Assignment\AP_assignment\AP_assignment\obj\Debug\reports.g.cs
+C:\Users\adobr\Desktop\Application Programming\Assignment\AP_assignment\AP_assignment\obj\Debug\TechnicianJobs.g.cs
+C:\Users\adobr\Desktop\Application Programming\Assignment\AP_assignment\AP_assignment\obj\Debug\TechnicianLogin.g.cs
+C:\Users\adobr\Desktop\Application Programming\Assignment\AP_assignment\AP_assignment\obj\Debug\technicianReport.g.cs
+C:\Users\Arturs\Desktop\Application Programming\AP_assignment\AP_assignment\obj\Debug\dashboard.baml
+C:\Users\Arturs\Desktop\Application Programming\AP_assignment\AP_assignment\obj\Debug\dashboard.g.cs
+C:\Users\Arturs\Desktop\Application Programming\AP_assignment\AP_assignment\obj\Debug\Manage Jobs.baml
+C:\Users\Arturs\Desktop\Application Programming\AP_assignment\AP_assignment\obj\Debug\Manage Jobs.g.cs
+G:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\bin\Debug\AP_assignment.exe
+G:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\bin\Debug\AP_assignment.pdb
+G:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\bin\Debug\MahApps.Metro.dll
+G:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\bin\Debug\MahApps.Metro.IconPacks.dll
+G:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\bin\Debug\System.Windows.Interactivity.dll
+G:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\bin\Debug\MahApps.Metro.pdb
+G:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\bin\Debug\MahApps.Metro.xml
+G:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\bin\Debug\MahApps.Metro.IconPacks.pdb
+G:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\bin\Debug\MahApps.Metro.IconPacks.xml
+G:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\AP_assignment.csprojResolveAssemblyReference.cache
+G:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\dashboard.baml
+G:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\Fault report2.baml
+G:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\jobLogs.baml
+G:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\JobStatus.baml
+G:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\Login.baml
+G:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\Maintenance.baml
+G:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\Fault report.baml
+G:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\Manage Jobs.baml
+G:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\reports.baml
+G:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\TechnicianJobs.baml
+G:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\TechnicianLogin.baml
+G:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\technicianReport.baml
+G:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\Technician_Dispatch.baml
+G:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\App.baml
+G:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\dashboard.g.cs
+G:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\Fault report2.g.cs
+G:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\jobLogs.g.cs
+G:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\JobStatus.g.cs
+G:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\Login.g.cs
+G:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\Maintenance.g.cs
+G:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\Fault report.g.cs
+G:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\Manage Jobs.g.cs
+G:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\reports.g.cs
+G:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\TechnicianJobs.g.cs
+G:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\TechnicianLogin.g.cs
+G:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\technicianReport.g.cs
+G:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\Technician_Dispatch.g.cs
+G:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\App.g.cs
+G:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\AP_assignment_MarkupCompile.cache
+G:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\AP_assignment.g.resources
+G:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\AP_assignment.Properties.Resources.resources
+G:\Year 3 sem1\AP\Assignment\AP_assignment\AP_assignment\obj\Debug\AP_assignment.csproj.GenerateResource.Cache
+C:\Users\adobr\Desktop\Application Programming\Assignment\AP_assignment\AP_assignment\obj\Debug\Manage Jobs.baml
+C:\Users\adobr\Desktop\Application Programming\Assignment\AP_assignment\AP_assignment\obj\Debug\Manage Jobs.g.cs
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.7\AP_assignment\bin\Debug\AP_assignment.exe.config
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.7\AP_assignment\obj\Debug\AP_assignment.exe
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.7\AP_assignment\obj\Debug\AP_assignment.pdb
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.7\AP_assignment\bin\Debug\AP_assignment.exe
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.7\AP_assignment\bin\Debug\AP_assignment.pdb
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.7\AP_assignment\bin\Debug\MahApps.Metro.dll
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.7\AP_assignment\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.7\AP_assignment\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.7\AP_assignment\bin\Debug\MahApps.Metro.pdb
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.7\AP_assignment\bin\Debug\MahApps.Metro.xml
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.7\AP_assignment\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.7\AP_assignment\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.7\AP_assignment\obj\Debug\AP_assignment.csprojResolveAssemblyReference.cache
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.7\AP_assignment\obj\Debug\dashboard.baml
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.7\AP_assignment\obj\Debug\Fault report2.baml
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.7\AP_assignment\obj\Debug\jobLogs.baml
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.7\AP_assignment\obj\Debug\JobStatus.baml
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.7\AP_assignment\obj\Debug\Login.baml
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.7\AP_assignment\obj\Debug\Maintenance.baml
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.7\AP_assignment\obj\Debug\Fault report.baml
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.7\AP_assignment\obj\Debug\Manage Jobs.baml
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.7\AP_assignment\obj\Debug\reports.baml
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.7\AP_assignment\obj\Debug\TechnicianJobs.baml
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.7\AP_assignment\obj\Debug\TechnicianLogin.baml
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.7\AP_assignment\obj\Debug\technicianReport.baml
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.7\AP_assignment\obj\Debug\Technician_Dispatch.baml
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.7\AP_assignment\obj\Debug\App.baml
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.7\AP_assignment\obj\Debug\dashboard.g.cs
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.7\AP_assignment\obj\Debug\Fault report2.g.cs
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.7\AP_assignment\obj\Debug\jobLogs.g.cs
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.7\AP_assignment\obj\Debug\JobStatus.g.cs
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.7\AP_assignment\obj\Debug\Login.g.cs
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.7\AP_assignment\obj\Debug\Maintenance.g.cs
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.7\AP_assignment\obj\Debug\Fault report.g.cs
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.7\AP_assignment\obj\Debug\Manage Jobs.g.cs
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.7\AP_assignment\obj\Debug\reports.g.cs
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.7\AP_assignment\obj\Debug\TechnicianJobs.g.cs
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.7\AP_assignment\obj\Debug\TechnicianLogin.g.cs
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.7\AP_assignment\obj\Debug\technicianReport.g.cs
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.7\AP_assignment\obj\Debug\Technician_Dispatch.g.cs
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.7\AP_assignment\obj\Debug\App.g.cs
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.7\AP_assignment\obj\Debug\AP_assignment_MarkupCompile.cache
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.7\AP_assignment\obj\Debug\AP_assignment.g.resources
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.7\AP_assignment\obj\Debug\AP_assignment.Properties.Resources.resources
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.7\AP_assignment\obj\Debug\AP_assignment.csproj.GenerateResource.Cache
+F:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\bin\Debug\AP_assignment.exe.config
+F:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\obj\Debug\AP_assignment.exe
+F:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\obj\Debug\AP_assignment.pdb
+F:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\bin\Debug\AP_assignment.exe
+F:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\bin\Debug\AP_assignment.pdb
+F:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\bin\Debug\MahApps.Metro.dll
+F:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\bin\Debug\MahApps.Metro.IconPacks.dll
+F:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\bin\Debug\System.Windows.Interactivity.dll
+F:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\bin\Debug\MahApps.Metro.pdb
+F:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\bin\Debug\MahApps.Metro.xml
+F:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\bin\Debug\MahApps.Metro.IconPacks.pdb
+F:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\bin\Debug\MahApps.Metro.IconPacks.xml
+F:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\obj\Debug\AP_assignment.csprojResolveAssemblyReference.cache
+F:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\obj\Debug\dashboard.baml
+F:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\obj\Debug\Fault report2.baml
+F:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\obj\Debug\jobLogs.baml
+F:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\obj\Debug\JobStatus.baml
+F:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\obj\Debug\Login.baml
+F:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\obj\Debug\Maintenance.baml
+F:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\obj\Debug\Fault report.baml
+F:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\obj\Debug\Manage Jobs.baml
+F:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\obj\Debug\reports.baml
+F:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\obj\Debug\TechnicianJobs.baml
+F:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\obj\Debug\TechnicianLogin.baml
+F:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\obj\Debug\technicianReport.baml
+F:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\obj\Debug\Technician_Dispatch.baml
+F:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\obj\Debug\App.baml
+F:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\obj\Debug\dashboard.g.cs
+F:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\obj\Debug\Fault report2.g.cs
+F:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\obj\Debug\jobLogs.g.cs
+F:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\obj\Debug\JobStatus.g.cs
+F:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\obj\Debug\Login.g.cs
+F:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\obj\Debug\Maintenance.g.cs
+F:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\obj\Debug\Fault report.g.cs
+F:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\obj\Debug\Manage Jobs.g.cs
+F:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\obj\Debug\reports.g.cs
+F:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\obj\Debug\TechnicianJobs.g.cs
+F:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\obj\Debug\TechnicianLogin.g.cs
+F:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\obj\Debug\technicianReport.g.cs
+F:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\obj\Debug\Technician_Dispatch.g.cs
+F:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\obj\Debug\App.g.cs
+F:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\obj\Debug\AP_assignment_MarkupCompile.cache
+F:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\obj\Debug\AP_assignment.g.resources
+F:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\obj\Debug\AP_assignment.Properties.Resources.resources
+F:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\obj\Debug\AP_assignment.csproj.GenerateResource.Cache
+E:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\bin\Debug\AP_assignment.exe.config
+E:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\obj\Debug\AP_assignment.exe
+E:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\obj\Debug\AP_assignment.pdb
+E:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\bin\Debug\AP_assignment.exe
+E:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\bin\Debug\AP_assignment.pdb
+E:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\bin\Debug\MahApps.Metro.dll
+E:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\bin\Debug\MahApps.Metro.IconPacks.dll
+E:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\bin\Debug\System.Windows.Interactivity.dll
+E:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\bin\Debug\MahApps.Metro.pdb
+E:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\bin\Debug\MahApps.Metro.xml
+E:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\bin\Debug\MahApps.Metro.IconPacks.pdb
+E:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\bin\Debug\MahApps.Metro.IconPacks.xml
+E:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\obj\Debug\AP_assignment.csprojResolveAssemblyReference.cache
+E:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\obj\Debug\dashboard.baml
+E:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\obj\Debug\Fault report2.baml
+E:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\obj\Debug\jobLogs.baml
+E:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\obj\Debug\JobStatus.baml
+E:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\obj\Debug\Login.baml
+E:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\obj\Debug\Maintenance.baml
+E:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\obj\Debug\Fault report.baml
+E:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\obj\Debug\Manage Jobs.baml
+E:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\obj\Debug\reports.baml
+E:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\obj\Debug\TechnicianJobs.baml
+E:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\obj\Debug\TechnicianLogin.baml
+E:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\obj\Debug\technicianReport.baml
+E:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\obj\Debug\Technician_Dispatch.baml
+E:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\obj\Debug\App.baml
+E:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\obj\Debug\dashboard.g.cs
+E:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\obj\Debug\Fault report2.g.cs
+E:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\obj\Debug\jobLogs.g.cs
+E:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\obj\Debug\JobStatus.g.cs
+E:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\obj\Debug\Login.g.cs
+E:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\obj\Debug\Maintenance.g.cs
+E:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\obj\Debug\Fault report.g.cs
+E:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\obj\Debug\Manage Jobs.g.cs
+E:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\obj\Debug\reports.g.cs
+E:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\obj\Debug\TechnicianJobs.g.cs
+E:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\obj\Debug\TechnicianLogin.g.cs
+E:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\obj\Debug\technicianReport.g.cs
+E:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\obj\Debug\Technician_Dispatch.g.cs
+E:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\obj\Debug\App.g.cs
+E:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\obj\Debug\AP_assignment_MarkupCompile.cache
+E:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\obj\Debug\AP_assignment.g.resources
+E:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\obj\Debug\AP_assignment.Properties.Resources.resources
+E:\Year 3 sem1\AP\Assignment\AP_assignmentV0.7\AP_assignment\obj\Debug\AP_assignment.csproj.GenerateResource.Cache
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.8\AP_assignment\bin\Debug\AP_assignment.exe.config
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.8\AP_assignment\obj\Debug\AP_assignment.exe
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.8\AP_assignment\obj\Debug\AP_assignment.pdb
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.8\AP_assignment\bin\Debug\AP_assignment.exe
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.8\AP_assignment\bin\Debug\AP_assignment.pdb
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.8\AP_assignment\bin\Debug\MahApps.Metro.dll
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.8\AP_assignment\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.8\AP_assignment\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.8\AP_assignment\bin\Debug\MahApps.Metro.pdb
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.8\AP_assignment\bin\Debug\MahApps.Metro.xml
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.8\AP_assignment\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.8\AP_assignment\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.8\AP_assignment\obj\Debug\AP_assignment.csprojResolveAssemblyReference.cache
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.8\AP_assignment\obj\Debug\dashboard.baml
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.8\AP_assignment\obj\Debug\Fault report2.baml
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.8\AP_assignment\obj\Debug\jobLogs.baml
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.8\AP_assignment\obj\Debug\JobStatus.baml
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.8\AP_assignment\obj\Debug\Login.baml
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.8\AP_assignment\obj\Debug\Maintenance.baml
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.8\AP_assignment\obj\Debug\Fault report.baml
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.8\AP_assignment\obj\Debug\Manage Jobs.baml
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.8\AP_assignment\obj\Debug\reports.baml
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.8\AP_assignment\obj\Debug\TechnicianJobs.baml
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.8\AP_assignment\obj\Debug\TechnicianLogin.baml
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.8\AP_assignment\obj\Debug\technicianReport.baml
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.8\AP_assignment\obj\Debug\Technician_Dispatch.baml
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.8\AP_assignment\obj\Debug\App.baml
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.8\AP_assignment\obj\Debug\dashboard.g.cs
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.8\AP_assignment\obj\Debug\Fault report2.g.cs
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.8\AP_assignment\obj\Debug\jobLogs.g.cs
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.8\AP_assignment\obj\Debug\JobStatus.g.cs
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.8\AP_assignment\obj\Debug\Login.g.cs
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.8\AP_assignment\obj\Debug\Maintenance.g.cs
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.8\AP_assignment\obj\Debug\Fault report.g.cs
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.8\AP_assignment\obj\Debug\Manage Jobs.g.cs
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.8\AP_assignment\obj\Debug\reports.g.cs
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.8\AP_assignment\obj\Debug\TechnicianJobs.g.cs
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.8\AP_assignment\obj\Debug\TechnicianLogin.g.cs
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.8\AP_assignment\obj\Debug\technicianReport.g.cs
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.8\AP_assignment\obj\Debug\Technician_Dispatch.g.cs
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.8\AP_assignment\obj\Debug\App.g.cs
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.8\AP_assignment\obj\Debug\AP_assignment_MarkupCompile.cache
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.8\AP_assignment\obj\Debug\AP_assignment.g.resources
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.8\AP_assignment\obj\Debug\AP_assignment.Properties.Resources.resources
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.8\AP_assignment\obj\Debug\AP_assignment.csproj.GenerateResource.Cache
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.9\AP_assignment\bin\Debug\AP_assignment.exe.config
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.9\AP_assignment\obj\Debug\AP_assignment.exe
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.9\AP_assignment\obj\Debug\AP_assignment.pdb
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.9\AP_assignment\bin\Debug\AP_assignment.exe
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.9\AP_assignment\bin\Debug\AP_assignment.pdb
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.9\AP_assignment\bin\Debug\MahApps.Metro.dll
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.9\AP_assignment\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.9\AP_assignment\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.9\AP_assignment\bin\Debug\MahApps.Metro.pdb
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.9\AP_assignment\bin\Debug\MahApps.Metro.xml
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.9\AP_assignment\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.9\AP_assignment\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.9\AP_assignment\obj\Debug\AP_assignment.csprojResolveAssemblyReference.cache
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.9\AP_assignment\obj\Debug\dashboard.baml
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.9\AP_assignment\obj\Debug\Fault report2.baml
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.9\AP_assignment\obj\Debug\jobLogs.baml
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.9\AP_assignment\obj\Debug\JobStatus.baml
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.9\AP_assignment\obj\Debug\Login.baml
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.9\AP_assignment\obj\Debug\Maintenance.baml
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.9\AP_assignment\obj\Debug\Fault report.baml
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.9\AP_assignment\obj\Debug\Manage Jobs.baml
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.9\AP_assignment\obj\Debug\reports.baml
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.9\AP_assignment\obj\Debug\TechnicianJobs.baml
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.9\AP_assignment\obj\Debug\TechnicianLogin.baml
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.9\AP_assignment\obj\Debug\technicianReport.baml
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.9\AP_assignment\obj\Debug\Technician_Dispatch.baml
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.9\AP_assignment\obj\Debug\App.baml
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.9\AP_assignment\obj\Debug\dashboard.g.cs
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.9\AP_assignment\obj\Debug\Fault report2.g.cs
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.9\AP_assignment\obj\Debug\jobLogs.g.cs
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.9\AP_assignment\obj\Debug\JobStatus.g.cs
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.9\AP_assignment\obj\Debug\Login.g.cs
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.9\AP_assignment\obj\Debug\Maintenance.g.cs
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.9\AP_assignment\obj\Debug\Fault report.g.cs
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.9\AP_assignment\obj\Debug\Manage Jobs.g.cs
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.9\AP_assignment\obj\Debug\reports.g.cs
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.9\AP_assignment\obj\Debug\TechnicianJobs.g.cs
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.9\AP_assignment\obj\Debug\TechnicianLogin.g.cs
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.9\AP_assignment\obj\Debug\technicianReport.g.cs
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.9\AP_assignment\obj\Debug\Technician_Dispatch.g.cs
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.9\AP_assignment\obj\Debug\App.g.cs
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.9\AP_assignment\obj\Debug\AP_assignment_MarkupCompile.cache
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.9\AP_assignment\obj\Debug\AP_assignment.g.resources
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.9\AP_assignment\obj\Debug\AP_assignment.Properties.Resources.resources
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV0.9\AP_assignment\obj\Debug\AP_assignment.csproj.GenerateResource.Cache
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV1.0\AP_assignment\bin\Debug\AP_assignment.exe.config
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV1.0\AP_assignment\obj\Debug\AP_assignment.exe
+C:\Users\Arturs\Desktop\Application Programming\AP_assignmentV1.0\AP_assignment\obj\Debug\AP_assignment.pdb

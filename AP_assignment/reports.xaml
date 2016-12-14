@@ -1,0 +1,29 @@
+﻿<Controls:MetroWindow x:Name="App" x:Class="Fault_Logger.reports"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:iconPacks="http://metro.mahapps.com/winfx/xaml/iconpacks"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        Title="Reports" Height="600" Width="800" WindowStyle="ToolWindow"
+        WindowStartupLocation="CenterScreen"
+        WindowTitleBrush="ForestGreen"
+        GlowBrush="{DynamicResource AccentColorBrush}">
+    <Controls:MetroWindow.RightWindowCommands>
+        <Controls:WindowCommands>
+            <Button x:Name="btnHome" Content="Home" Click="btnHome_Click" />
+            <ComboBox x:Name="cmbUser" BorderThickness="0" Background="{x:Null}" Controls:TextBoxHelper.Watermark="Account">
+                <ComboBoxItem Content="Logout" HorizontalAlignment="Left" Width="146" Selected="cmbLogout" Background="#FF48BBDC"/>
+            </ComboBox>
+        </Controls:WindowCommands>
+    </Controls:MetroWindow.RightWindowCommands>
+    <Grid>
+        <Label Content="Available Reports" HorizontalAlignment="Left" Height="136" Margin="235,144,0,0" VerticalAlignment="Top" Width="402" FontSize="48"/>
+        <Button Content="Back" HorizontalAlignment="Left" Height="13" Margin="10,10,0,0" VerticalAlignment="Top" Width="72" Background="#FF0F9FBF" Click="Button_Click"/>
+        <iconPacks:PackIconFontAwesome Kind="CaretLeft" Margin="13,17,0,0" Height="12" Width="12" />
+        <Button x:Name="btnDashboard" Content="Dashboard" HorizontalAlignment="Left" Height="50" Margin="84,387,0,0" VerticalAlignment="Top" Width="290" Controls:ControlsHelper.ContentCharacterCasing="Upper" Background="#FF2294E4" Click="btnDashboard_Click" FontSize="16"/>
+        <Button x:Name="btnTechinicans" Content="Technician Log" HorizontalAlignment="Left" Height="50" Margin="421,285,0,0" VerticalAlignment="Top" Width="290" Background="#FF4DAA62" Click="btnTechinicans_Click" FontSize="16"/>
+        <Button x:Name="btnJobs" Content="Job log" HorizontalAlignment="Left" Height="50" Margin="84,285,0,0" VerticalAlignment="Top" Width="290" Background="#FFD34D00" Click="btnJobs_Click" FontSize="16"/>
+        <iconPacks:PackIconFontAwesome Kind="LineChart" Margin="143,400,0,0" Height="24" Width="24" />
+        <iconPacks:PackIconFontAwesome Kind="FileText" Margin="464,298,0,0" Height="24" Width="24" />
+        <iconPacks:PackIconFontAwesome Kind="FileText" Margin="160,298,0,0" Height="24" Width="23" />
+    </Grid>
+</Controls:MetroWindow>

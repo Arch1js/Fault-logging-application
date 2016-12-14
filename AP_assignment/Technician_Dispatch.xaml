@@ -1,0 +1,29 @@
+﻿<Controls:MetroWindow x:Name="App" x:Class="Fault_Logger.Technician_Dispatch"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:iconPacks="http://metro.mahapps.com/winfx/xaml/iconpacks"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        Title="Dispatch" Height="600" Width="800" WindowStyle="ToolWindow"
+        WindowStartupLocation="CenterScreen"
+        WindowTitleBrush="ForestGreen"
+        GlowBrush="{DynamicResource AccentColorBrush}">
+    <Controls:MetroWindow.RightWindowCommands>
+        <Controls:WindowCommands>
+            <ComboBox x:Name="cmbUser" BorderThickness="0" Background="{x:Null}" Controls:TextBoxHelper.Watermark="Account">
+                <ComboBoxItem Content="Logout" HorizontalAlignment="Left" Width="146" Selected="cmbLogout" Background="#FF48BBDC"/>
+            </ComboBox>
+        </Controls:WindowCommands>
+    </Controls:MetroWindow.RightWindowCommands>
+    <Grid>
+        <Button x:Name="btnFault" Content="User reported fault" HorizontalAlignment="Left" Height="45" Margin="90,235,0,0" VerticalAlignment="Top" Width="258" Click="btnFault_Click" Controls:ControlsHelper.ContentCharacterCasing="Upper" Background="#FF2294E4" FontSize="14.667" FontWeight="Bold"/>
+        <Button x:Name="btnMaintenance" Content="Maintenance Job" HorizontalAlignment="Left" Height="45" Margin="83,333,0,0" VerticalAlignment="Top" Width="258" Click="btnMaintenance_Click" Background="#FF4DAA62" FontSize="14.667"/>
+        <Button x:Name="btnReport" Content="Reports" HorizontalAlignment="Left" Height="46" Margin="426,235,0,0" VerticalAlignment="Top" Width="266" Background="#FFD34D00" Click="btnReport_Click" FontSize="16"/>
+        <Label Content="Technician Dispatch" HorizontalAlignment="Left" Height="75" Margin="217,127,0,0" VerticalAlignment="Top" Width="447" FontSize="36"/>
+        <iconPacks:PackIconFontAwesome Kind="Book" Margin="108,247,0,0" Height="21" Width="21" />
+        <iconPacks:PackIconFontAwesome Kind="Wrench" Margin="108,345,0,0" Height="21" Width="21" />
+        <iconPacks:PackIconFontAwesome Kind="BarChart" Margin="490,247,0,0" Height="21" Width="22" />
+        <Button x:Name="btnManage" Content="Manage Jobs" HorizontalAlignment="Left" Height="45" Margin="426,332,0,0" VerticalAlignment="Top" Width="266" Background="#FF737E87" Click="btnManage_Click" FontSize="16"/>
+        <iconPacks:PackIconFontAwesome Kind="Users" Margin="465,345,0,0" Height="21" Width="21" />
+    </Grid>
+</Controls:MetroWindow>
+

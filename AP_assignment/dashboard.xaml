@@ -1,0 +1,23 @@
+﻿<Controls:MetroWindow x:Name="App" x:Class="Fault_Logger.dashboard"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:iconPacks="http://metro.mahapps.com/winfx/xaml/iconpacks"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        Title="Dashboard" Height="800" Width="1300"
+        WindowStartupLocation="CenterScreen"
+        GlowBrush="{DynamicResource AccentColorBrush}"
+        WindowTitleBrush="ForestGreen" WindowStyle="ToolWindow">
+    <Controls:MetroWindow.RightWindowCommands>
+        <Controls:WindowCommands>
+            <Button x:Name="btnHome" Content="Home" Click="btnHome_Click"/>
+            <ComboBox x:Name="cmbUser" BorderThickness="0" Background="{x:Null}" Controls:TextBoxHelper.Watermark="Account">
+                <ComboBoxItem Content="Logout" HorizontalAlignment="Left" Width="146" Selected="ComboBoxItem_Selected" Background="#FF48BBDC"/>
+            </ComboBox>
+        </Controls:WindowCommands>
+    </Controls:MetroWindow.RightWindowCommands>
+    <Grid Loaded="Grid_Loaded">
+        <WebBrowser x:Name="reportBrowser" HorizontalAlignment="Left" Height="711" Margin="10,49,0,0" VerticalAlignment="Top" Width="1272" OverridesDefaultStyle="True"/>
+        <Button x:Name="btnBack" Content="Back" HorizontalAlignment="Left" Height="13" Margin="44,19,0,0" VerticalAlignment="Top" Width="72" Background="#FF0F9FBF" Click="btnBack_Click"/>
+        <iconPacks:PackIconFontAwesome Kind="CaretLeft" Margin="46,26,0,0" Height="12" Width="12"></iconPacks:PackIconFontAwesome>
+    </Grid>
+</Controls:MetroWindow>

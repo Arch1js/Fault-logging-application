@@ -1,0 +1,38 @@
+﻿<Controls:MetroWindow x:Name="App" x:Class="Fault_Logger.Manage_Jobs"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:iconPacks="http://metro.mahapps.com/winfx/xaml/iconpacks"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        Title="Manage Jobs" Height="800" Width="1100" WindowStyle="ToolWindow"
+        WindowStartupLocation="CenterScreen"
+        WindowTitleBrush="ForestGreen"
+        GlowBrush="{DynamicResource AccentColorBrush}">
+    <Controls:MetroWindow.RightWindowCommands>
+        <Controls:WindowCommands>
+            <Button x:Name="btnHome" Content="Home" Click="btnHome_Click" />
+            <ComboBox x:Name="cmbUser" BorderThickness="0" Background="{x:Null}" Controls:TextBoxHelper.Watermark="Account">
+                <ComboBoxItem Content="Logout" HorizontalAlignment="Left" Width="146" Selected="ComboBoxItem_Selected" Background="#FF48BBDC"/>
+            </ComboBox>
+        </Controls:WindowCommands>
+    </Controls:MetroWindow.RightWindowCommands>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" MinHeight="770" />
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <TextBox x:Name="txtSearchQuery" HorizontalAlignment="Left" Height="26" Margin="38,31,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="219" Controls:TextBoxHelper.ClearTextButton="True" TextChanged="txtSearchQuery_TextChanged"/>
+        <iconPacks:PackIconFontAwesome Kind="Search" Margin="220,36,0,0" Height="14" Width="14" />
+        <StackPanel>
+            <Expander IsExpanded="False" Margin="284,35,19,571" Background="#CCFFFFFF" BorderBrush="#CCFFFFFF" Header="Filters" Height="107">
+                <StackPanel Orientation="Horizontal" Height="86" Margin="0">
+                    <Button x:Name="btnDoingFilter" Content="Doing" HorizontalAlignment="Left" Height="33" Margin="20,5,0,0" VerticalAlignment="Top" Width="170" Background="#FF22E25F" Click="btnDoingFilter_Click"/>
+                    <Button x:Name="btnWaitingFilter" Content="Waiting" HorizontalAlignment="Left" Height="33" Margin="20,5,0,0" VerticalAlignment="Top" Width="170" Background="#FFFFFF4A" Click="btnWaitingFilter_Click"/>
+                    <Button x:Name="btnUnresolvedFilter" Content="Unresolved" HorizontalAlignment="Left" Height="33" Margin="20,5,0,0" VerticalAlignment="Top" Width="170" Background="#FFF02525" Click="btnUnresolvedFilter_Click" />
+                    <Button x:Name="btnClear" Content="Clear Filters" HorizontalAlignment="Left" Height="33" Margin="20,5,0,0" VerticalAlignment="Top" Width="170" Background="#FF5B85F7" Click="btnClear_Click"/>
+                </StackPanel>
+            </Expander>
+        </StackPanel>
+        <DataGrid x:Name="dgJobs" HorizontalAlignment="Left" Height="650" Margin="10,110,0,0" VerticalAlignment="Top" Width="1067" CellEditEnding="dgJobs_CellEditEnding" AutoGeneratingColumn="dgJobs_AutoGeneratingColumn" Focusable="True" PreviewKeyDown="dgJobs_PreviewKeyDown" SelectionChanged="dgJobs_SelectionChanged" BeginningEdit="dgJobs_BeginningEdit"/>
+    </Grid>
+</Controls:MetroWindow>

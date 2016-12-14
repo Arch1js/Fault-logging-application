@@ -1,0 +1,25 @@
+﻿<Controls:MetroWindow x:Name="App" x:Class="Fault_Logger.TechnicianJobs"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:iconPacks="http://metro.mahapps.com/winfx/xaml/iconpacks"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        Title="Jobs" Height="600" Width="450" WindowStyle="ToolWindow"
+        WindowStartupLocation="CenterScreen"
+        WindowTitleBrush="ForestGreen"
+        GlowBrush="{DynamicResource AccentColorBrush}">
+    <Controls:MetroWindow.RightWindowCommands>
+        <Controls:WindowCommands>
+            <ComboBox x:Name="cmbUser" BorderThickness="0" Background="{x:Null}" Controls:TextBoxHelper.Watermark="Account">
+                <ComboBoxItem Content="Logout" HorizontalAlignment="Left" Width="146" Selected="cmbLogout" Background="#FF48BBDC"/>
+            </ComboBox>
+        </Controls:WindowCommands>
+    </Controls:MetroWindow.RightWindowCommands>
+    <Grid>
+        <DataGrid x:Name="dgJobs" HorizontalAlignment="Center" Margin="10,53,10,0"  Style="{StaticResource AzureDataGrid}" AutoGeneratingColumn="dgJobs_AutoGeneratingColumn" SelectionChanged="dgJobs_SelectionChanged" Width="422"/>
+        <Label x:Name="lblStatus" Content="" HorizontalAlignment="Left" Height="27" Margin="10,3,0,0" VerticalAlignment="Top" Width="141"/>
+        <Label x:Name="lblMyStatus" Content="" HorizontalAlignment="Left" Height="27" Margin="10,30,0,0" VerticalAlignment="Top" Width="141"/>
+        <Button x:Name="btnBreak" Content="I'm on break" HorizontalAlignment="Left" Height="18" Margin="326,17,0,0" VerticalAlignment="Top" Width="106" Background="#FF0AC51B" Click="btnBreak_Click"/>
+
+    </Grid>
+</Controls:MetroWindow>
+

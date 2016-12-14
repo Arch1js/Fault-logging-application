@@ -1,0 +1,48 @@
+Added new user reported job: 10,12662,12,12,02/12/2016 22:36:53,Waiting,Monitor not working<br>
+Job updated: 35, Changed: 14, To: 2<br>
+Deleted Job: 36,0,0,5,7<br>
+Updated Job: 34,1,3,02/12/2016 22:18:29,02/12/2016 22:57:28,Fix router
+,Done<br>
+Added new maintenance job: 1,6,05/12/2016 16:42:58,Waiting,Windows not booting
+<br>
+Added new maintenance job: 6,6,05/12/2016 17:07:57,Waiting,Needs new workstation
+<br>
+Job updated: 39, Changed: 1, To: 2<br>
+Job updated: 39, Changed: 2, To: 3<br>
+Job updated: 39, Changed: 6, To: 7<br>
+Job updated: 39, Changed: Windows not booting
+, To: Windows not booting up
+<br>
+Job updated: 39, Changed: 7, To: 8<br>
+Job updated: 39, Changed: 3, To: 2<br>
+Added new user reported job: 5,12657,14,4,05/12/2016 19:02:17,Waiting,Password is not working<br>
+Job updated: 39, Changed: 2, To: 1<br>
+Job updated: 39, Changed: 1, To: 2<br>
+Job updated: 39, Changed: Doing, To: Waiting<br>
+Job updated: 39, Changed: 2, To: 1<br>
+Updated Job: 39,1,8,05/12/2016 16:42:58,05/12/2016 19:58:37,Windows not booting up
+,Done<br>
+Added new maintenance job: 1,4,05/12/2016 20:00:45,Waiting,Reinstall windows
+<br>
+Updated Job: 42,1,4,05/12/2016 20:00:45,05/12/2016 20:02:27,Reinstall windows
+,Reinstalled<br>
+Added new maintenance job: 1,11,05/12/2016 20:04:33,Waiting,Windows in not booting
+<br>
+Added new maintenance job: 7,6,05/12/2016 20:08:01,Waiting,No internet connection
+<br>
+Added new user reported job: 9,12661,3,8,08/12/2016 22:47:24,Waiting,MS Office is not loading up<br>
+Added new user reported job: 24,12670,12,2,08/12/2016 22:47:50,Waiting,Broken mouse - needs changing<br>
+Added new user reported job: 26,12672,10,4,08/12/2016 22:48:20,Waiting,Something is wrong with router<br>
+Added new user reported job: 8,12660,2,6,12/12/2016 14:16:52,Waiting,Broken keyboard<br>
+Added new maintenance job: 9,6,12/12/2016 14:39:39,Waiting,Cable audit required
+<br>
+Deleted Job: 45,12661,9,8,3<br>
+Updated Job: 43,1,11,05/12/2016 20:04:33,12/12/2016 17:00:55,Windows in not booting
+,Windows reinstalled<br>
+Added new maintenance job: 6,6,13/12/2016 09:44:13,Waiting,Change printer
+<br>
+Added new user reported job: 6,12658,6,1,14/12/2016 18:27:35,Waiting,Printer is not working<br>
+Added new maintenance job: 9,6,14/12/2016 18:28:20,Waiting,Cable audit
+<br>
+Job updated: 51, Changed: 6, To: 1<br>
+Added new user reported job: 22,12668,8,16,14/12/2016 19:05:33,Waiting,Mouse isnt working<br>

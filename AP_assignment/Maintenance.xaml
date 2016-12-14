@@ -1,0 +1,70 @@
+﻿<Controls:MetroWindow x:Name="App" x:Class="Fault_Logger.Maintenance"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:iconPacks="http://metro.mahapps.com/winfx/xaml/iconpacks"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        Title="Maintenance" Height="700" Width="1000" WindowStyle="ToolWindow"
+        WindowStartupLocation="CenterScreen"
+        WindowTitleBrush="ForestGreen"
+        GlowBrush="{DynamicResource AccentColorBrush}">
+    <Controls:MetroWindow.RightWindowCommands>
+        <Controls:WindowCommands>
+            <Button x:Name="btnHome" Content="Home" Click="btnHome_Click"/>
+            <ComboBox x:Name="cmbUser" BorderThickness="0" Background="{x:Null}" Controls:TextBoxHelper.Watermark="Account">
+                <ComboBoxItem Content="Logout" HorizontalAlignment="Left" Width="146" Selected="cmbLogout" Background="#FF48BBDC"/>
+            </ComboBox>
+        </Controls:WindowCommands>
+    </Controls:MetroWindow.RightWindowCommands>
+    <Grid>
+        <GroupBox Header="Job card" HorizontalAlignment="Left" Height="551" Margin="763,68,0,0" VerticalAlignment="Top" Width="225"/>
+        <TextBox x:Name="txtSearch" Controls:TextBoxHelper.Watermark="Search here" Controls:TextBoxHelper.ClearTextButton="True" HorizontalAlignment="Left" Height="14" Margin="33,29,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="225" TextChanged="txtSearch_TextChanged"/>
+        <Button x:Name="btnAvailable" Content="Show available technicians" HorizontalAlignment="Left" Height="26" Margin="425,29,0,0" VerticalAlignment="Top" Width="179" Click="btnAvailable_Click" Background="#FF15A9EE"/>
+        <DataGrid x:Name="dgTechnicians" HorizontalAlignment="Left" Height="578" Margin="33,82,0,0" VerticalAlignment="Top" Width="719" Style="{StaticResource AzureDataGrid}" AutoGeneratingColumn="dgTechnicians_AutoGeneratingColumn" SelectionChanged="dgTechnicians_SelectionChanged"/>
+        <ComboBox x:Name="cmbZone" HorizontalAlignment="Left" Height="19" Margin="788,309,0,0" VerticalAlignment="Top" Width="148" Controls:TextBoxHelper.Watermark="Zone">
+            <ComboBoxItem Content="0" HorizontalAlignment="Left" Width="146"/>
+            <ComboBoxItem Content="1" HorizontalAlignment="Left" Width="146"/>
+            <ComboBoxItem Content="2" HorizontalAlignment="Left" Width="146"/>
+            <ComboBoxItem Content="3" HorizontalAlignment="Left" Width="146"/>
+            <ComboBoxItem Content="4" HorizontalAlignment="Left" Width="146"/>
+            <ComboBoxItem Content="5" HorizontalAlignment="Left" Width="146"/>
+            <ComboBoxItem Content="6" HorizontalAlignment="Left" Width="146"/>
+            <ComboBoxItem Content="7" HorizontalAlignment="Left" Width="146"/>
+            <ComboBoxItem Content="8" HorizontalAlignment="Left" Width="146"/>
+            <ComboBoxItem Content="9" HorizontalAlignment="Left" Width="146"/>
+            <ComboBoxItem Content="10" HorizontalAlignment="Left" Width="146"/>
+            <ComboBoxItem Content="11" HorizontalAlignment="Left" Width="146"/>
+            <ComboBoxItem Content="12" HorizontalAlignment="Left" Width="146"/>
+            <ComboBoxItem Content="13" HorizontalAlignment="Left" Width="146"/>
+            <ComboBoxItem Content="14" HorizontalAlignment="Left" Width="146"/>
+            <ComboBoxItem Content="15" HorizontalAlignment="Left" Width="146"/>
+            <ComboBoxItem Content="16" HorizontalAlignment="Left" Width="146"/>
+            <ComboBoxItem Content="17" HorizontalAlignment="Left" Width="146"/>
+            <ComboBoxItem Content="18" HorizontalAlignment="Left" Width="146"/>
+            <ComboBoxItem Content="19" HorizontalAlignment="Left" Width="146"/>
+            <ComboBoxItem Content="20" HorizontalAlignment="Left" Width="146"/>
+        </ComboBox>
+        <Button x:Name="btnSave" Content="Save" HorizontalAlignment="Left" Height="23" Margin="883,574,0,0" VerticalAlignment="Top" Width="88" Click="btnSave_Click" Background="#FF26B65A"/>
+        <TextBox x:Name="txtTechID" HorizontalAlignment="Left" Height="23" Margin="788,122,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="148"/>
+        <TextBox x:Name="txtTechName" HorizontalAlignment="Left" Height="23" Margin="788,172,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="148"/>
+        <TextBox x:Name="txtTechSpecialization" HorizontalAlignment="Left" Height="23" Margin="788,278,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="148"/>
+        <Label Content="Comments:" HorizontalAlignment="Left" Height="24" Margin="783,343,0,0" VerticalAlignment="Top" Width="106"/>
+        <Label Content="Specialization:" HorizontalAlignment="Left" Height="24" Margin="783,256,0,0" VerticalAlignment="Top" Width="106"/>
+        <Label Content="Name:" HorizontalAlignment="Left" Height="24" Margin="783,150,0,0" VerticalAlignment="Top" Width="106"/>
+        <Label Content="Technician ID:" HorizontalAlignment="Left" Height="24" Margin="781,98,0,0" VerticalAlignment="Top" Width="106"/>
+        <RichTextBox x:Name="rtxtComments" HorizontalAlignment="Left" Height="190" Margin="788,364,0,0" VerticalAlignment="Top" Width="183" ToolTip="">
+            <FlowDocument>
+                <Paragraph>
+                    <Run Text=""/>
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+        <TextBox x:Name="txtTechSurname" HorizontalAlignment="Left" Height="23" Margin="788,223,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="148"/>
+        <Label Content="Surname:" HorizontalAlignment="Left" Height="24" Margin="783,203,0,0" VerticalAlignment="Top" Width="106"/>
+        <Button x:Name="btnClear" Content="Clear" HorizontalAlignment="Left" Height="23" Margin="788,574,0,0" VerticalAlignment="Top" Width="88" Click="btnClear_Click" Background="#FFFF5D5D"/>
+        <Button x:Name="btnClearFilter" Content="Clear filter" HorizontalAlignment="Left" Height="26" Margin="617,29,0,0" VerticalAlignment="Top" Width="119" Background="#FFF05050" Click="btnClearFilter_Click"/>
+        <iconPacks:PackIconFontAwesome Kind="Search" Margin="219,34,0,0" Height="14" Width="14" />
+        <iconPacks:PackIconFontAwesome Kind="Times" Margin="630,38,0,0" Height="10" Width="10" />
+        <iconPacks:PackIconFontAwesome Kind="Times" Margin="803,582,0,0" Height="10" Width="10" />
+        <iconPacks:PackIconFontAwesome Kind="FloppyOutline" Margin="901,582,0,0" Height="10" Width="10" />        
+    </Grid>
+</Controls:MetroWindow>

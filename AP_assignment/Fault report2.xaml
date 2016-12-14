@@ -1,0 +1,71 @@
+﻿<Controls:MetroWindow x:Name="App" x:Class="Fault_Logger.FaultReport2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:iconPacks="http://metro.mahapps.com/winfx/xaml/iconpacks"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        Title="Fault Report - Continue" Height="700" Width="1100"
+        WindowStartupLocation="CenterScreen"
+        GlowBrush="{DynamicResource AccentColorBrush}"
+        WindowTitleBrush="ForestGreen" WindowStyle="ToolWindow">
+    <Controls:MetroWindow.RightWindowCommands>
+        <Controls:WindowCommands>
+            <Button x:Name="btnHome" Content="Home" Click="btnHome_Click"/>
+            <ComboBox x:Name="cmbUser" BorderThickness="0" Background="{x:Null}" Controls:TextBoxHelper.Watermark="Account">
+                <ComboBoxItem Content="Logout" HorizontalAlignment="Left" Width="146" Selected="cmbLogout" Background="#FF48BBDC"/>
+            </ComboBox>
+        </Controls:WindowCommands>
+    </Controls:MetroWindow.RightWindowCommands>
+    <Grid>
+        <GroupBox Header="Fault card - continue" HorizontalAlignment="Left" Height="631" Margin="10,10,0,0" VerticalAlignment="Top" Width="337"/>
+        <TextBox x:Name="txtStaffID" HorizontalAlignment="Left" Height="20" Margin="50,72,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="119"/>
+        <TextBox x:Name="txtMachineID" HorizontalAlignment="Left" Height="20" Margin="201,72,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="119"/>
+        <ComboBox x:Name="cmbSpecializations" HorizontalAlignment="Left" Height="22" Margin="50,118,0,0" VerticalAlignment="Top" Width="119" Controls:TextBoxHelper.Watermark="Specialization">
+            <ComboBoxItem Content="Software" HorizontalAlignment="Left" Width="146"/>
+            <ComboBoxItem Content="Hardware" HorizontalAlignment="Left" Width="146"/>
+            <ComboBoxItem Content="Networking" HorizontalAlignment="Left" Width="146"/>
+        </ComboBox>
+        <ComboBox x:Name="cmbZone" HorizontalAlignment="Left" Height="21" Margin="50,162,0,0" VerticalAlignment="Top" Width="119" Controls:TextBoxHelper.Watermark="Fault Zone">
+            <ComboBoxItem Content="0" HorizontalAlignment="Left" Width="146"/>
+            <ComboBoxItem Content="1" HorizontalAlignment="Left" Width="146"/>
+            <ComboBoxItem Content="2" HorizontalAlignment="Left" Width="146"/>
+            <ComboBoxItem Content="3" HorizontalAlignment="Left" Width="146"/>
+            <ComboBoxItem Content="4" HorizontalAlignment="Left" Width="146"/>
+            <ComboBoxItem Content="5" HorizontalAlignment="Left" Width="146"/>
+            <ComboBoxItem Content="6" HorizontalAlignment="Left" Width="146"/>
+            <ComboBoxItem Content="7" HorizontalAlignment="Left" Width="146"/>
+            <ComboBoxItem Content="8" HorizontalAlignment="Left" Width="146"/>
+            <ComboBoxItem Content="9" HorizontalAlignment="Left" Width="146"/>
+            <ComboBoxItem Content="10" HorizontalAlignment="Left" Width="146"/>
+            <ComboBoxItem Content="11" HorizontalAlignment="Left" Width="146"/>
+            <ComboBoxItem Content="12" HorizontalAlignment="Left" Width="146"/>
+            <ComboBoxItem Content="13" HorizontalAlignment="Left" Width="146"/>
+            <ComboBoxItem Content="14" HorizontalAlignment="Left" Width="146"/>
+            <ComboBoxItem Content="15" HorizontalAlignment="Left" Width="146"/>
+            <ComboBoxItem Content="16" HorizontalAlignment="Left" Width="146"/>
+            <ComboBoxItem Content="17" HorizontalAlignment="Left" Width="146"/>
+            <ComboBoxItem Content="18" HorizontalAlignment="Left" Width="146"/>
+            <ComboBoxItem Content="19" HorizontalAlignment="Left" Width="146"/>
+            <ComboBoxItem Content="20" HorizontalAlignment="Left" Width="146"/>
+        </ComboBox>
+        <Button x:Name="btnAuto" Content="Auto-Assign" HorizontalAlignment="Left" Margin="201,136,0,0" VerticalAlignment="Top" Width="119" Click="btnAuto_Click" Background="#FF15A9EE"/>
+        <TextBox x:Name="txtTechID" HorizontalAlignment="Left" Height="20" Margin="50,222,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="119"/>
+        <TextBox x:Name="txtTechName" HorizontalAlignment="Left" Height="20" Margin="201,222,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="119"/>
+        <TextBox x:Name="txtZone" HorizontalAlignment="Left" Height="20" Margin="50,283,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="119"/>
+        <DataGrid x:Name="dgTechnicians" HorizontalAlignment="Left" SelectedValuePath="id" Height="610" Margin="359,31,0,0" VerticalAlignment="Top" Width="723" Style="{StaticResource AzureDataGrid}" AutoGeneratingColumn="dgTechnicians_AutoGeneratingColumn" SelectionChanged="dgTechnicians_SelectionChanged" IsSynchronizedWithCurrentItem="False"/>
+        <Label x:Name="lblStaffID" Content="Reporting Staff ID:" HorizontalAlignment="Left" Height="27" Margin="50,40,0,0" VerticalAlignment="Top" Width="119"/>
+        <Label x:Name="lblMachineID" Content="Staff Machine ID:" HorizontalAlignment="Left" Height="27" Margin="201,40,0,0" VerticalAlignment="Top" Width="119"/>
+        <Label x:Name="lblTechID" Content="Technician ID:" HorizontalAlignment="Left" Height="27" Margin="50,195,0,0" VerticalAlignment="Top" Width="119"/>
+        <Label x:Name="lblTechName" Content="Technician name:" HorizontalAlignment="Left" Height="27" Margin="201,195,0,0" VerticalAlignment="Top" Width="119"/>
+        <Label x:Name="lblZone" Content="Technician location:" HorizontalAlignment="Left" Height="27" Margin="50,256,0,0" VerticalAlignment="Top" Width="119"/>
+        <Label x:Name="lblComments" Content="Comments:" HorizontalAlignment="Left" Height="27" Margin="50,310,0,0" VerticalAlignment="Top" Width="119"/>
+        <Button x:Name="btnSaveFault" Content="Save Fault" HorizontalAlignment="Left" Height="28" Margin="230,599,0,0" VerticalAlignment="Top" Width="90" Click="btnSaveFault_Click" Background="#FF26B65A"/>
+        <Button x:Name="btnCancleFault" Content="Cancel" HorizontalAlignment="Left" Height="28" Margin="121,599,0,0" VerticalAlignment="Top" Width="90" Click="btnCancleFault_Click" Background="#FFFF5D5D"/>
+        <TextBox x:Name="txtComments" HorizontalAlignment="Left" Height="233" Margin="50,342,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="270" TextChanged="txtComments_TextChanged" AcceptsReturn="True" AcceptsTab="True" AutoWordSelection="True"/>
+        <iconPacks:PackIconFontAwesome Kind="Magic" Margin="213,143,0,0" Height="11" Width="11" />
+        <iconPacks:PackIconFontAwesome Kind="Times" Margin="134,610,0,0" Height="8" Width="8" />
+        <iconPacks:PackIconFontAwesome Kind="FloppyOutline" Margin="236,610,0,0" Height="8" Width="8" />
+        <TextBox x:Name="txtJobs" HorizontalAlignment="Left" Height="20" Margin="201,283,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="119"/>
+        <Label x:Name="lblJobsDone" Content="Jobs done today:" HorizontalAlignment="Left" Height="27" Margin="201,256,0,0" VerticalAlignment="Top" Width="119"/>
+        <Label x:Name="lblTextCount" Content="" HorizontalAlignment="Left" Height="23" Margin="256,319,0,0" VerticalAlignment="Top" Width="64"/>        
+    </Grid>
+</Controls:MetroWindow>
